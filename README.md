@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m from Rio de Janeiro, Brazil, currently transitioning into the IT field. I’ve been actively studying programming, focusing on logic, algorithms, and the fundamentals of software development.<br><br>I’m working on personal projects and practicing regularly to build my skills and gain practical experience in coding.</p>
+<p align="left">I'm a <b>computer science student</b> from Rio de Janeiro, Brazil, currently building my foundations in programming and software development.<br><br>I first explored programming logic through independent study with Portugol (a Portuguese-based pseudocode language), and later completed a course in JavaScript. Now at university, I'm continuing with Java and C, alongside algorithms, programming fundamentals, and core computer science concepts.<br><br>Interested in <b>software and game development</b>, along with the <b>creative side of technology</b>, especially <b>front-end and digital design</b>. I'm still exploring these paths and staying open to others as I find where to specialize.<br><br>Before computer science, I spent a few semesters studying psychology, exploring how people think and behave, something that feels close to what draws me to building experiences, now in tech.<br><br>I'm also working on personal projects and practicing regularly to turn what I learn into practical experience.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🕸️ Coding since 2026<br>​🖥️​​ Currently learning programming logic using JavaScript and Portugol, along with HTML, CSS, and software development fundamentals.</p>
+<p align="left">✦ 🎓 Computer science student<br>✦ 🎯 Front-end, game dev, UI/UX</p>
 
 ###
 
@@ -23,13 +23,25 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
 ###
