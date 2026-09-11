@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✦ 🎓 Computer science student<br>✦ 🎯 Front-end, game dev, UI/UX</p>
+<p align="left">✦ 🎓 Computer science student<br>✦ 🛠️ Interest in front-end, game dev, UI/UX</p>
 
 ###
 
