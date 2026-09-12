@@ -9,8 +9,6 @@
 
 <br>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=PROFILE%20VIEWS&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmanuelaespiuca%2Fprofile-views)
-![Commit Activity](https://img.shields.io/badge/dynamic/json?color=blue&label=COMMIT%20ACTIVITY&style=for-the-badge&query=%24.total&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dmanuelaespiuca)
 ![Repo Size](https://img.shields.io/github/repo-size/manuelaespiuca/manuelaespiuca?color=blue&label=REPO%20SIZE&style=for-the-badge)
 
 </div>
@@ -38,6 +36,8 @@ I'm also working on personal projects and practicing regularly to turn what I le
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 </div>
