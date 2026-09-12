@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://i.imgur.com/MrBDcMp.jpeg" width="100%" height="300" style="object-fit: cover;" alt="banner"/>
+<img src="https://i.imgur.com/dncvIoP.jpeg" width="100%" height="300" style="object-fit: cover;" alt="banner"/>
 
 ### Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuela-espiuca)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuespiuca.dev@gmail.com)
-
-<br>
-
-![Repo Size](https://img.shields.io/github/repo-size/manuelaespiuca/manuelaespiuca?color=blue&label=REPO%20SIZE&style=for-the-badge)
 
 </div>
 
