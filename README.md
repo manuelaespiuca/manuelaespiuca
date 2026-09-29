@@ -31,6 +31,7 @@ I'm also working on personal projects and practicing regularly to turn what I le
 
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
