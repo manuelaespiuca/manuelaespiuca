@@ -15,7 +15,7 @@
 
 I'm a **computer science student** from Rio de Janeiro, Brazil, currently building my foundations in programming and software development.
 
-I first explored programming logic through independent study with Portugol (a Portuguese-based pseudocode language), and later completed a course in JavaScript, where I also had a first look at HTML and CSS, which I'm still studying. Now at university, I'm continuing with Java and C, alongside algorithms, programming fundamentals, and core computer science concepts.
+I first explored programming logic through independent study with Portugol (a Portuguese-based pseudocode language), and later completed a course in JavaScript, where I also had a first look at HTML and CSS, which I'm still studying. Now at university, I'm continuing with Java, C, and Python, alongside algorithms, programming fundamentals, and core computer science concepts.
 
 Interested in **software and game development**, along with the **creative side of technology**, especially **front-end and digital design**. I'm still exploring these paths and staying open to others as I find where to specialize.
 
