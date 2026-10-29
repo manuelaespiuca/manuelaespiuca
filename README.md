@@ -19,7 +19,7 @@ I first explored programming logic through independent study with Portugol (a Po
 
 Interested in **software development**, **QA (quality assurance)** and the **creative side of technology**, especially **front-end and UX/UI**. With QA, I enjoy paying attention to details and thinking about how things can break, so that what's built actually works well. I'm still exploring these paths and staying open to others as I find where to specialize.
 
-Before computer science, I spent a few years studying psychology, an experience that contributed to the development of skills such as communication, empathy and critical thinking, along with a people-centered perspective that I want to bring into development and, in the future, into **UX/UI**.
+Before computer science, I spent a few years studying psychology, exploring how people think and behave, something that feels close to what draws me to building experiences, now in tech. That people-centered perspective is something I want to bring into development and, in the future, into **UX/UI**.
 
 <br>
 
