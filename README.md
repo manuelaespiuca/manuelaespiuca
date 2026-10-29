@@ -17,7 +17,7 @@ I'm a **computer science student** and **full stack developer in training** from
 
 I first explored programming logic through independent study with Portugol (a Portuguese-based pseudocode language), and later completed a course in JavaScript, where I also had a first look at HTML and CSS. Alongside my independent studies in **Python**, I'm now working with **Java and C** at university, together with algorithms, object-oriented programming, and core computer science concepts. **Git and GitHub** help me version my code, keep track of changes and organize my projects.
 
-Interested in **software development**, **QA (quality assurance)** and the **creative side of technology**, especially **front-end and UX/UI**. With QA, I enjoy paying attention to details and thinking about how things can break, which helps me write more reliable code. I'm still exploring these paths and staying open to others as I find where to specialize.
+Interested in **software development**, **QA (quality assurance)**, and the **creative side of technology**. I'm still exploring these areas and staying open to others as I discover where I'd like to specialize.
 
 Before computer science, I spent a few years studying psychology, exploring how people think and behave. That's what draws me to building experiences, now through technology, and it's a perspective I want to bring into development and, in the future, into **UX/UI**.
 
