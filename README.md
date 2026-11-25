@@ -5,7 +5,8 @@
 ### Full Stack Developer in Training | Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuela-espiuca)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuespiuca.dev@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuespiuca.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge)](https://manuelaespiuca.github.io/portfolio/)
 
 </div>
 
@@ -27,12 +28,12 @@ Before computer science, I spent a few years studying psychology, exploring how 
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
